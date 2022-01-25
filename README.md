@@ -1,4 +1,4 @@
-# Hallo 👋 I'm Ajay Krishan Kamta
+# Hey 👋 I'm Ajay Krishan Kamta
 <h3>I’m a Full Stack Web Developer. I love developing new skills.
 I want to <strong>make things</strong> that <strong>make a difference</strong> !!</h3>
 <br />
